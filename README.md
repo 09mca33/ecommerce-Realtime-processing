@@ -1,3 +1,13 @@
+
+Architecture Overview
+
+
+<img width="566" height="328" alt="image" src="https://github.com/user-attachments/assets/c6ecc168-863f-453b-af96-b81909607c86" />
+
+
+
+POWER BI DashBoard
+
 <img width="517" height="283" alt="image" src="https://github.com/user-attachments/assets/8708be44-5787-43b4-9052-334bb70f97db" />
 
 
@@ -70,3 +80,4 @@ ecommerce-streaming/
 │   └── dashboard.pbix            # Power BI report (optional)
 │
 └── README.md
+
